@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">A passionate programmer trying to gain experience build cool ideas and test out new things</p>
+<p align="left">A passionate programmer trying to gain experience, build cool ideas, and test out new things</p>
 
 ###
 
