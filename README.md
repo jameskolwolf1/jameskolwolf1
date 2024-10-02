@@ -91,8 +91,3 @@
 
 <img align="right" height="180" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNG9xdGszc3RnNWxrZHp5M2dpYnk4NmdlZDEwZGhqMWU5a21rZDRuayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/umYMU8G2ixG5mJBDo5/giphy.gif"  />
 
-###
-
-<img src="https://raw.githubusercontent.com/jameskolwolf1/jameskolwolf1/output/snake.svg" alt="Snake animation" />
-
-###
