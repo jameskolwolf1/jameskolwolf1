@@ -1,91 +1,95 @@
-<h2 align="left">Hi! My name is James</h2>
-
-###
-
-<p align="left">A passionate programmer trying to gain experience, build cool ideas, and test out new things</p>
-
-###
-
-<br clear="both">
-
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=jameskolwolf1&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:0055FF,50:007BFF,100:FFD700&text=JAMES&fontColor=FFFFFF&fontSize=64&fontAlignY=38&desc=DEVELOPER%20%7C%20BUILDER%20%7C%20CREATOR&descAlignY=61&descSize=15" width="100%" alt="Blue and gold header" />
+
+<img src="./assets/sonic-profile.jpg" width="190" alt="James's Sonic-inspired profile artwork" />
+
+# Hey, I'm James. 👋
+
+### Software Developer · Builder · Skateboarder
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=560&lines=Building+ideas+into+reality.;Writing+code%2C+breaking+things%2C+learning.;Always+curious.+Always+creating.;Gotta+go+fast.+%E2%9A%A1)](https://git.io/typing-svg)
+
+A passionate programmer trying to gain experience, build cool ideas, and test out new things
+
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://www.discordapp.com/users/1154607350854983681)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:jamesl.lovingthomas@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/james-loving-thomas562/)
+
 </div>
 
-###
+---
 
-<h3 align="left">Skills</h3>
+## `01` / About Me
 
-###
+I'm a developer who enjoys exploring technology, experimenting with ideas, and turning concepts into working projects. I like figuring things out, solving problems, and improving what I build.
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="30" alt="sass logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="30" alt="intellij logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="30" alt="vim logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="30" alt="visualstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/subversion/subversion-original.svg" height="30" alt="subversion logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="30" alt="androidstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-original.svg" height="30" alt="fedora logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="30" alt="npm logo"  />
-</div>
+**Away from the keyboard:** music, skateboarding, and getting lost in fictional worlds. And, of course, a little Sonic-inspired speed. 💙
 
-###
+---
 
-<h3 align="left">Socials</h3>
+## `02` / Tech Stack
 
-###
+**Frontend**
 
-<br clear="both">
+<p>
+  <img src="https://skillicons.dev/icons?i=react,js,ts,html,css,sass" alt="React, JavaScript, TypeScript, HTML, CSS, Sass" />
+</p>
+
+**Backend & Languages**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,java,cs,py" alt="Node.js, Express, Java, C sharp, Python" />
+</p>
+
+**Databases, Platforms & Tools**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,git,linux,vim,vscode,visualstudio,idea,androidstudio,fedora,npm" alt="MySQL, Git, Linux, Vim, VS Code, Visual Studio, IntelliJ, Android Studio, Fedora, npm" />
+</p>
+
+---
+
+## `03` / Currently On Repeat 🎧
 
 <div align="center">
-  <a href="https://www.discordapp.com/users/1154607350854983681" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  </a>
-  <a href="mailto:jamesl.lovingthomas@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/james-loving-thomas562/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
+
+### My Spotify Playlist
+
+A soundtrack for coding, skating, and everything in between.
+
+[![Listen on Spotify](https://img.shields.io/badge/Listen%20on-Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/60ODHOtqZDnilSok4QZhPo?si=84709b62f9664c62)
+
 </div>
 
+---
 
-<br clear="both">
+## `04` / Off the Clock
 
-<img align="center" height="180" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNG9xdGszc3RnNWxrZHp5M2dpYnk4NmdlZDEwZGhqMWU5a21rZDRuayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/umYMU8G2ixG5mJBDo5/giphy.gif"  />
+<div align="center">
 
+| 🛹 Skateboarding | 🎵 Music | 📚 Fiction |
+|:---:|:---:|:---:|
+| Progress over perfection. | Always have something playing. | Stories beyond reality. |
+
+### Gotta Go Fast! ⚡
+
+<img src="./assets/sonic-skateboard.gif" width="220" alt="Animated blue hedgehog skateboarding" />
+
+</div>
+
+---
+
+## `05` / Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/james-loving-thomas562/)
+[![Discord](https://img.shields.io/badge/Discord-Chat-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://www.discordapp.com/users/1154607350854983681)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jamesl.lovingthomas@gmail.com)
+
+**Keep building. Keep skating. Keep moving forward.**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:FFD700,50:007BFF,100:0055FF&section=footer" width="100%" alt="Blue and gold footer" />
+
+</div>
